@@ -1,0 +1,456 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"width"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"g",
+				"grey"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"r",
+				"red"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"G",
+				"gray"
+			],
+			[
+				"D",
+				"d-flex"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"gr",
+				"grey"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"n",
+				"orange"
+			],
+			[
+				"M",
+				"margin-left"
+			],
+			[
+				"P",
+				"padding-top"
+			],
+			[
+				"B",
+				"border"
+			],
+			[
+				"o",
+				"orange"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"q",
+				"aqua"
+			],
+			[
+				"H",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ff",
+				"font-family"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"MB",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"margi",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/student/Desktop/alibek/15/index.html",
+		"/C/Users/student/Desktop/Сергей/3 урок/index.html",
+		"/C/Users/student/Desktop/Сергей/2 урок/Задания/5/index.html",
+		"/C/Users/student/Desktop/Сергей/2 урок/Задания/4/index.html",
+		"/C/Users/student/Desktop/Сергей/2 урок/Задания/3/index.html",
+		"/C/Users/student/Desktop/Сергей/2 урок/Задания/2/index.html",
+		"/C/Users/student/Desktop/Сергей/2 урок/Задания/1/index.html",
+		"/C/Users/student/Desktop/Сергей/2 урок/index.html",
+		"/C/Users/student/Desktop/Сергей/index.html",
+		"/C/Users/student/Desktop/alibek/15.index/index.html",
+		"/C/Users/student/Desktop/alibek/14/5/5.html",
+		"/C/Users/student/Desktop/alibek/14/4/4.html",
+		"/C/Users/student/Desktop/alibek/14/3/3.html",
+		"/C/Users/student/Desktop/alibek/14/2/2.html",
+		"/C/Users/student/Desktop/alibek/14/1/1.html",
+		"/C/Users/student/Desktop/alibek/13.index/10/10.html",
+		"/C/Users/student/Desktop/alibek/11.index/index.html",
+		"/C/Users/student/Desktop/alibek/13.index/1/index.html",
+		"/C/Users/student/Desktop/alibek/13.index/3/3.html",
+		"/C/Users/student/Desktop/alibek/13.index/4/4.html",
+		"/C/Users/student/Desktop/alibek/13.index/5/5.html",
+		"/C/Users/student/Desktop/alibek/13.index/6/6.html",
+		"/C/Users/student/Desktop/alibek/13.index/7/7.html",
+		"/C/Users/student/Desktop/alibek/13.index/8/8.html",
+		"/C/Users/student/Desktop/alibek/13.index/9/9.html",
+		"/C/Users/student/Desktop/alibek/13.index/5/5.png",
+		"/C/Users/student/Desktop/alibek/12/Задания/7/7.html",
+		"/C/Users/student/Desktop/alibek/12/Задания/6/6.html",
+		"/C/Users/student/Desktop/alibek/12/Задания/5/5.html",
+		"/C/Users/student/Desktop/alibek/12/Задания/4/4.html",
+		"/C/Users/student/Desktop/alibek/12/Задания/3/3.html",
+		"/C/Users/student/Desktop/alibek/12/Задания/2/2.html",
+		"/C/Users/student/Desktop/alibek/12/Задания/1/1.html",
+		"/C/Users/student/Desktop/alibek/12/Задания/8/8.html",
+		"/C/Users/student/Desktop/alibek/12/Повтор/index.html",
+		"/C/Users/student/Desktop/ясмин/site.html",
+		"/C/Users/student/Desktop/alibek/9/x.html",
+		"/C/Users/student/Desktop/alibek/10/1.html",
+		"/C/Users/student/Desktop/alibek/10/test.html",
+		"/C/Users/student/Desktop/alibek/10/2.html",
+		"/C/Users/student/Desktop/alibek/10/3.html",
+		"/C/Users/student/Desktop/alibek/10/4.html",
+		"/C/Users/student/Desktop/alibek/10/5.html",
+		"/C/Users/student/Desktop/alibek/10/6.html",
+		"/C/Users/student/Desktop/alibek/10/7.html",
+		"/C/Users/student/Desktop/alibek/9/Новая папка/index.html",
+		"/C/Users/student/Desktop/alibek/index.html",
+		"/C/Users/student/Desktop/alibek/8/1.html",
+		"/C/Users/student/Desktop/alibek/10.html",
+		"/C/Users/student/Desktop/alibek/9.html",
+		"/C/Users/student/Desktop/alibek/10.index",
+		"/C/Users/student/Desktop/alibek/8/2.html",
+		"/C/Users/student/Desktop/damira/site.html",
+		"/C/Users/student/Desktop/alibek/8/8.html",
+		"/C/Users/student/Desktop/alibek/7 урок/7.html",
+		"/C/Users/student/Desktop/alibek/6 урок/5/5.html",
+		"/C/Users/student/Desktop/alibek/6 урок/4/4.html",
+		"/C/Users/student/Desktop/alibek/6 урок/3/3.html",
+		"/C/Users/student/Desktop/alibek/6 урок/2/2.html",
+		"/C/Users/student/Desktop/alibek/6 урок/1/1.html",
+		"/C/Users/student/Desktop/alibek/5 урок/5 урок.html",
+		"/C/Users/student/Desktop/alibek/6 урок/5/6.html",
+		"/C/Users/student/Desktop/николай/site.html",
+		"/C/Users/student/Desktop/Амир/site.html",
+		"/C/Users/student/Desktop/alibek/4 урок/1.html",
+		"/C/Users/student/Desktop/altair/site.html",
+		"/C/Users/student/Desktop/Алихан/site.html",
+		"/C/Users/student/Desktop/alibek/3 урок/1/1.html",
+		"/C/Users/student/Desktop/alibek/3 урок/2/2.html",
+		"/C/Users/student/Desktop/alibek/3 урок/3/3.html",
+		"/C/Users/student/Desktop/alibek/3 урок/4/4.html",
+		"/C/Users/student/Desktop/alibek/3 урок/5/5.html",
+		"/C/Users/student/Desktop/alibek/3 урок/3.html",
+		"/C/Users/student/Desktop/alibek/1 урок/Задания/6/6.html",
+		"/C/Users/student/Desktop/alibek/1 урок/Задания/5/5.html",
+		"/C/Users/student/Desktop/alibek/1 урок/Задания/4/4.html",
+		"/C/Users/student/Desktop/alibek/1 урок/Задания/3/3.html",
+		"/C/Users/student/Desktop/Алан/сайт.html",
+		"/C/Users/student/Desktop/моля/site.html",
+		"/C/Users/student/Desktop/alibek/1 урок/1 урок.html",
+		"/C/Users/student/Desktop/alibek/1 урок/1 урок 2.html",
+		"/C/Users/student/Desktop/alibek/1 урок/Задания/1/сайт.html",
+		"/C/Users/student/Desktop/alibek/1 урок/Задания/2/2.html",
+		"/C/Users/student/Desktop/alibek/sine.html",
+		"/C/Users/student/Desktop/Gaziza/сайт.html",
+		"/C/Users/student/Desktop/Ансар/sait.html",
+		"/C/Users/student/Desktop/example site/index.html",
+		"/C/Users/student/Desktop/магжан/site.html",
+		"/C/Users/student/Desktop/мырза/site.html",
+		"/C/Users/student/Desktop/арай айару/site.html",
+		"/C/Users/student/Desktop/мадина Кумис/site.html",
+		"/C/Program Files/Sublime Text/я хочу домой.htmL",
+		"/C/Users/student/Desktop/абылай/site.html",
+		"/C/Users/student/Desktop/beibarys/site.html"
+	],
+	"find":
+	{
+		"height": 190.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 190.4
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 377.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
